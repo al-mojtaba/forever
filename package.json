@@ -1,0 +1,10 @@
+{
+  "name": "railway-log-script",
+  "version": "1.0.0",
+  "description": "A script that logs 'hey' every 10 seconds.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node forever.js"
+  },
+  "dependencies": {}
+}
